@@ -40,14 +40,14 @@ example output for query “telefon” input is ;
 
 <p align="center">
 <a href = "https://github.com/yilmazvolkan/queryExpansionApp"><img 
-<img src="https://github.com/yilmazvolkan/queryExpansionApp/blob/master/example1.png" width="470" height="150"></a>
+<img src="https://github.com/yilmazvolkan/queryExpansionApp/blob/master/example1.png" width="290" height="150"></a>
 </p>
 
 
 Some other examples:
 
 
-<p align="center">
+<p align="left">
 <a href = "https://github.com/yilmazvolkan/queryExpansionApp"><img 
-<img src="https://github.com/yilmazvolkan/queryExpansionApp/blob/master/example2.png" width="470" height="150"></a>
+<img src="https://github.com/yilmazvolkan/queryExpansionApp/blob/master/example2.png" width="410" height="330"></a>
 </p>
