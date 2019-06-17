@@ -37,3 +37,17 @@ to console in order to build executable. Then, command
 in order to run. 11 means the number of processes including the master node. Therefore, if you want to N the most similar words from the dictionary, you need to give console command N+1 to define also the master node. After giving these
 commands, programme runs and user should give a word for query. If this word is in the dictionary, user should see the most similar N words. If it is not, user shall get NOT FOUND in the console. After sequence of queries, if user wishes to terminate the programme, he/she simply do that by giving “EXIT” query word to the console. The
 example output for query “telefon” input is ;
+
+<p align="center">
+<a href = "https://github.com/yilmazvolkan/queryExpansionApp"><img 
+<img src="https://github.com/yilmazvolkan/queryExpansionApp/blob/master/example1.png" width="470" height="150"></a>
+</p>
+
+
+Some other examples:
+
+
+<p align="center">
+<a href = "https://github.com/yilmazvolkan/queryExpansionApp"><img 
+<img src="https://github.com/yilmazvolkan/queryExpansionApp/blob/master/example2.png" width="470" height="150"></a>
+</p>
